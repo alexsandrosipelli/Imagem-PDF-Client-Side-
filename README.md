@@ -36,7 +36,7 @@ image-to-pdf/
 
 ## Execução
 
-Abrir o `index.html` no navegador ou acessar via GitHub Pages.
+Abrir o `index.html` no navegador ou acessar via GitHub Pages https://alexsandrosipelli.github.io/Imagem-PDF-Client-Side-/.
 
 ---
 
